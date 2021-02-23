@@ -40,6 +40,12 @@ AntSword(蚁剑)全参数流量XOR，基于[AntSword-Cryption-WebShell](https://
 
 ![image-20210114210441008](images/README/image-20210114210441008.png)
 
+# 更新
+
+## 2021年2月23日
+
+增加WebShell伪装，更多的XOR次数，Base64编码传输。
+
 # 注意点
 
 encoder/decoder/shell中xor次数需要保持一致
