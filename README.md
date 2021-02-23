@@ -40,6 +40,10 @@ AntSword(蚁剑)全参数流量XOR，基于[AntSword-Cryption-WebShell](https://
 
 ![image-20210114210441008](images/README/image-20210114210441008.png)
 
+WebShell访问效果
+
+![image-20210114210441008](images/README/image-20210223210441008.png)
+
 # 更新
 
 ## 2021年2月23日
