@@ -6,7 +6,9 @@
 
 找到`蚁剑的初始化目录\source\modules\settings\encoders.js`文件
 
-在第89行~106行之间加入如下配置，==注意逗号==。
+在第89行~106行之间加入如下配置
+
+`注意逗号`
 
 ```json
 {
@@ -16,8 +18,6 @@
     text: "JSP"
 }
 ```
-
-
 
 ![image-20210228194649734](images/README/image-20210228194649734.png)
 
@@ -33,7 +33,7 @@ case "new_jsp_decoder":
 
 ### 覆盖模板
 
-==建议将`template`文件夹拷贝一份出来做备份。==
+建议将`template`文件夹拷贝一份出来做备份。
 
 将提供好的template文件夹内的文件覆盖到下边的目录中
 
