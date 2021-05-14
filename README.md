@@ -1,27 +1,9 @@
-## 介绍
 
-AntSword(蚁剑)全参数流量XOR+Base64，基于[AntSword-Cryption-WebShell](https://github.com/xiaopan233/AntSword-Cryption-WebShell/tree/main/php)基础上进行改造，主要用来逃避一些流量检测。
 
 ## 使用
 
-`php、jsp、asp文件夹中会有单独的README文件，打开后可以看到具体的使用说明。`
-
-`或者可以直接在github上点击进去也可以看到`
+`直接在github上点击进php、jsp、asp文件夹中会有单独的README文件，打开后可以看到具体的使用说明。`
 
 ## 蚁剑版本
 
 v2.1.10
-
-## 更新
-
-### 2021年4月27日
-
-增加Asp支持(基础功能没问题，不排除会有Bug，欢迎提交issue。)
-
-### 2021年2月28日
-
-增加Jsp支持
-
-### 2021年2月23日
-
-增加WebShell伪装，增大XOR-Key值，加多一层Base64编码传输。
