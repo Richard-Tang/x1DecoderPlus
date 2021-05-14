@@ -4,15 +4,19 @@ AntSword(蚁剑)全参数流量XOR+Base64，基于[AntSword-Cryption-WebShell](h
 
 ## 使用
 
-`php、jsp、asp文件夹中会有单独的README文件，打开后可以看到具体的使用说明。`
+根据自己蚁剑的版本切换分支
 
-`或者可以直接在github上点击进去也可以看到`
+AntSword_GE_v2.11.1 `大于v2.11.1`
 
-## 蚁剑版本
+AntSword_LE_v2.1.10 `小于2.1.10`
 
-v2.1.10
+![image-20210514205705368](images/README/image-20210514205705368.png)
 
 ## 更新
+
+### 2021年5月14日
+
+jsp支持蚁剑v2.11.1版
 
 ### 2021年4月27日
 
