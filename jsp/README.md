@@ -38,7 +38,7 @@
 
 将提供好的WebShell进行上传，需要更换密码的请修改WebShell中的`request.getParameter("data")`。
 
-![image-20210513231530851](/Users/richardtang/Desktop/x1DecoderPlus/jsp/images/README/image-20210513231530851.png)
+![image-20210513231530851](images/README/image-20210513231530851.png)
 
 ## 效果
 
@@ -48,4 +48,4 @@
 
 WebShell访问效果
 
-![image-20210513232001800](/Users/richardtang/Desktop/x1DecoderPlus/jsp/images/README/image-20210513232001800.png)
+![image-20210513232001800](images/README/image-20210513232001800.png)
