@@ -6,9 +6,9 @@ AntSword(蚁剑)全参数流量XOR+Base64，基于[AntSword-Cryption-WebShell](h
 
 根据自己蚁剑的版本切换分支
 
-AntSword_GE_v2.11.1 `大于v2.11.1`
+AntSword_GE_v2.1.11 `大于等于v2.1.11`
 
-AntSword_LE_v2.1.10 `小于2.1.10`
+AntSword_LE_v2.1.10 `小于等于2.1.10`
 
 ![image-20210514205705368](images/README/image-20210514205705368.png)
 
